@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3faa738-de38-4663-bcb1-78d8d0a92c20" name="Default Changelist" comment="" />
+    <list default="true" id="d3faa738-de38-4663-bcb1-78d8d0a92c20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E2EFuncTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver73.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/AdditionalTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkActivationCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkActivationCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkArchivalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkArchivalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkEmptyingBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkEmptyingBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkLibraryAndReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkLibraryAndReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkPurchasePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkPurchasePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkRememberPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkRememberPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/RunAutoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/testRunner/RunAutoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cheparskyTest/utilities/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheparsky/utilities/MyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver73.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire8888088047696995563tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_05068015236435497223tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter4584504006598903273.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/AdditionalTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkActivationCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkArchivalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkContact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkEmptyingBasket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkLibraryAndReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkLogIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkPurchasePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkRegistration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkRememberPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/EkSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/eKFuncTestsWWW/RunAutoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/utilities/MyDriver$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cheparskyTest/utilities/MyDriver.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,13 +58,65 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-607006508">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1142888137">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="630" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="630" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/utilities/MyDriver.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/utilities/MyDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="484" column="5" selection-start-line="484" selection-start-column="5" selection-end-line="484" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/testRunner/RunAutoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -25,10 +125,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkActivationCode.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkRememberPass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="69" />
+            <state relative-caret-position="17">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/requests/ClassRequest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkLogIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="87" column="43" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,8 +177,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Sprawdzamy stronę na jaką trafiamy i według tego przyjmujemy odpowiedni akcje</find>
-      <find>Definiujemy akcje, ktora odpowiada za kasowanie produktu z koszyku</find>
       <find>Sprawdzenie czy widok bibliotecki dziala</find>
       <find>Sprawdzanie funkcjonalnosci pokaz wiecej</find>
       <find>Jeżeli przgladarka Chrome to testowo pobieramy plik</find>
@@ -77,9 +205,10 @@
       <find>Widomość w razie klikalności przyciska</find>
       <find>Wiadomość w razie nieklikalności przycisku</find>
       <find>Wiadomośc w razie braku przycisku</find>
+      <find>http://www.e-kiosk.pl/secure/</find>
+      <find>webelement</find>
     </findStrings>
     <replaceStrings>
-      <replace>We define the action, which is responsible for selecting the year in the drop-down list</replace>
       <replace>We define actions that are responsible for clearing the field</replace>
       <replace>We define the action, which is responsible for sending the contact form (wrong)</replace>
       <replace>check the page to which we get and what we adopt the right actions</replace>
@@ -109,10 +238,11 @@
       <replace>Message when button is clickable</replace>
       <replace>Message when button is non-clickable</replace>
       <replace>Message when is no button</replace>
+      <replace>webElement</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/E2EFunctTest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -152,6 +282,10 @@
         <option value="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkSearch.java" />
         <option value="$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/RunAutoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/cheparskyTest/utilities/MyDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkPurchasePath.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cheparsky/pages/EkMain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cheparsky/testRunner/RunAutoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cheparsky/utilities/MyDriver.java" />
       </list>
     </option>
   </component>
@@ -167,10 +301,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="830" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,7 +313,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,20 +335,6 @@
               <item name="E2EFuncTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="E2EFuncTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EFuncTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EFuncTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EFuncTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EFuncTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -231,36 +350,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cheparskyTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EFuncTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EFuncTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cheparskyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="eKFuncTestsWWW" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EFuncTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EFuncTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cheparskyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="cheparsky" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550410123393" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550506094903" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\workspace\AC\git\E2EFuncTest\src\test\resources" />
+      <recent name="H:\workspace\AC\git\E2EFuncTest\src\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntelliJJ\E2EFuncTest\src\main\resources" />
     </key>
@@ -282,12 +390,12 @@
       <module name="E2EFuncTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cheparskyTest.*" />
+          <option name="PATTERN" value="cheparsky.additionalTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cheparskyTest" />
-      <option name="MAIN_CLASS_NAME" value="cheparskyTest.AdditionalTests" />
+      <option name="PACKAGE_NAME" value="cheparsky.additionalTest" />
+      <option name="MAIN_CLASS_NAME" value="cheparsky.additionalTest.AdditionalTests" />
       <option name="METHOD_NAME" value="TestOfWebDriver" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -299,6 +407,9 @@
         <item itemvalue="JUnit.AdditionalTests.TestOfWebDriver" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -319,54 +430,74 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32934928" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30278885" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30222222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.18573265" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.30222222" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32934928" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.18573265" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/E2EFunctTest" />
+    </ignored-roots>
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer2.settings">
+    <option name="applicationTheme" value="Project structure is not supported." />
+    <option name="autodetectServerAddress" value="true" />
+    <option name="componentTheme" value="LUMO" />
+    <option name="serverIp" value="localhost" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cheparsky/eKFuncTestsWWW/fgdsfgsdf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/AdditionalTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cheparsky/eKFuncTestsWWW/fgdsfgsdf.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -374,97 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkArchivalNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="94" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkContact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkEmptyingBasket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkLibraryAndReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="196" column="120" selection-start-line="196" selection-start-column="7" selection-end-line="196" selection-end-column="120" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkLogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="96" column="67" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="250" column="10" selection-start-line="250" selection-start-column="10" selection-end-line="250" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkProductPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-444">
-          <caret line="26" column="114" selection-start-line="26" selection-start-column="114" selection-end-line="26" selection-end-column="114" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="123" column="82" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkPurchasePath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="200" column="86" selection-start-line="200" selection-start-column="86" selection-end-line="200" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkRegistration.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkRegistration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="166" column="40" lean-forward="true" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="40" />
@@ -474,53 +515,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkRememberPass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-716">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkSearch.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
           <caret line="51" column="76" selection-start-line="51" selection-start-column="76" selection-end-line="51" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkActivationCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/RunAutoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkArchivalNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/eKFuncTestsWWW/EkActivationCode.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkEmptyingBasket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="69" />
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cheparskyTest/utilities/MyDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkLibraryAndReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="484" column="5" selection-start-line="484" selection-start-column="5" selection-end-line="484" selection-end-column="5" />
+        <state relative-caret-position="200">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/AdditionalTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkPurchasePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="87" column="43" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/pages/EkRememberPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/requests/ClassRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/testRunner/RunAutoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cheparsky/utilities/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -544,5 +674,6 @@
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
     <option value="clean install -DbrowserName=Chrome" />
+    <option value="clean" />
   </component>
 </project>
